@@ -71,9 +71,9 @@
 						</div>
 				
 						<ul class="fh5co-social">
-							<li><a href="https://github.com/httpdocs"><i class="icon-github"></i></a></li>
-							<li><a href="https://twitter.com/redpipeapple"><i class="icon-twitter"></i></a></li>
-							<li><a href="https://plus.google.com/u/0/105313890309653129166"><i class="icon-google"> </i></a></li>
+							<li><a href="#"><i class="icon-github">https://github.com/httpdocs</i></a></li>
+							<li><a href="#"><i class="icon-twitter">https://twitter.com/redpipeapple</i></a></li>
+							<li><a href="#"><i class="icon-google"> https://plus.google.com/u/0/105313890309653129166</i></a></li>
 						</ul>
 					</div>
 				</div>
